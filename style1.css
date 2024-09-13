@@ -1,0 +1,57 @@
+body {
+    background-image: url('https://www.marthastewart.com/thmb/dVsF495CWF8cmqzHWqlZwk6C6pE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/leavenworth-2-best-christmas-destinations-getty-0719-09c72a6a2b344577a3613e79733f7c82.jpg');
+  }
+
+  p {
+  font-family:cursive;
+  text-shadow: 2px 2px #000000;
+  color: white;
+}
+
+article{
+  margin-right: 35%;
+}
+
+aside{
+  margin-left: 75%;
+}
+
+h1{
+  font-family:cursive;
+  text-shadow: 5px 5px #000000;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 33%;
+}
+
+h3{
+  font-family:cursive;
+  text-shadow: 3px 3px #000000;
+  color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+a{
+  font-family: cursive;
+  text-shadow: 1px 1px #000000;
+  color: red;
+}
+
+section{
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
+
+div {
+  background-color: rgb(105, 235, 235);
+  text-align: center;
+}

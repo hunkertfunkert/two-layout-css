@@ -1,0 +1,67 @@
+body {
+    background-image: url('https://t4.ftcdn.net/jpg/01/88/80/67/360_F_188806781_M5C4Yego2uDGVJ3A5AZmZVrFUiF8wGH8.jpg');
+
+}
+
+p {
+  font-family:fantasy;
+  text-shadow: 2px 2px #000000;
+  color: white;
+  text-align: center;
+  margin-left: 40%;
+  margin-right: 40%;
+  letter-spacing: 4px;
+}
+
+
+
+
+img{
+    width: 0px;
+    height: 0px;
+} /*it might be considered cheating to use css to get rid of the gif but I thought it was a good idea*/
+
+h1{
+  font-family:fantasy;
+  text-shadow: 1px 1px #ffffff;
+  color: rgb(176, 10, 10);
+  text-align: center;
+  margin-left: 40%;
+  margin-right: 40%;
+  letter-spacing: 5px;
+}
+
+h3{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-shadow: 1px 1px #ffffff;
+  color: rgb(185, 21, 21);
+  text-align: center;
+  margin-left: 40%;
+  margin-right: 40%;
+  letter-spacing: 6px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+a{
+  font-family: cursive;
+  text-shadow: 1px 1px #000000;
+  color: rgb(58, 228, 124);
+}
+
+section{
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
+
+div {
+  background-color: rgb(9, 53, 53);
+  text-align: center;
+}
